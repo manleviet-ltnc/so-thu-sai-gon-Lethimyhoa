@@ -1,0 +1,10 @@
+E:\github\SoThu\SoThu\bin\Debug\SoThu.exe.config
+E:\github\SoThu\SoThu\bin\Debug\SoThu.exe
+E:\github\SoThu\SoThu\bin\Debug\SoThu.pdb
+E:\github\SoThu\SoThu\obj\Debug\SoThu.csprojResolveAssemblyReference.cache
+E:\github\SoThu\SoThu\obj\Debug\SoThu.Form1.resources
+E:\github\SoThu\SoThu\obj\Debug\SoThu.Properties.Resources.resources
+E:\github\SoThu\SoThu\obj\Debug\SoThu.csproj.GenerateResource.Cache
+E:\github\SoThu\SoThu\obj\Debug\SoThu.csproj.CoreCompileInputs.cache
+E:\github\SoThu\SoThu\obj\Debug\SoThu.exe
+E:\github\SoThu\SoThu\obj\Debug\SoThu.pdb
