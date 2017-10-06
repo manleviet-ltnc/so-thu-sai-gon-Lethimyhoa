@@ -1,0 +1,10 @@
+C:\Users\USER\Documents\GitHub\so-thu-sai-gon-Lethimyhoa\SoThuXaiGon\SoThuXaiGon\bin\Debug\SoThuXaiGon.exe.config
+C:\Users\USER\Documents\GitHub\so-thu-sai-gon-Lethimyhoa\SoThuXaiGon\SoThuXaiGon\bin\Debug\SoThuXaiGon.exe
+C:\Users\USER\Documents\GitHub\so-thu-sai-gon-Lethimyhoa\SoThuXaiGon\SoThuXaiGon\bin\Debug\SoThuXaiGon.pdb
+C:\Users\USER\Documents\GitHub\so-thu-sai-gon-Lethimyhoa\SoThuXaiGon\SoThuXaiGon\obj\Debug\SoThuXaiGon.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\GitHub\so-thu-sai-gon-Lethimyhoa\SoThuXaiGon\SoThuXaiGon\obj\Debug\SoThuXaiGon.Form1.resources
+C:\Users\USER\Documents\GitHub\so-thu-sai-gon-Lethimyhoa\SoThuXaiGon\SoThuXaiGon\obj\Debug\SoThuXaiGon.Properties.Resources.resources
+C:\Users\USER\Documents\GitHub\so-thu-sai-gon-Lethimyhoa\SoThuXaiGon\SoThuXaiGon\obj\Debug\SoThuXaiGon.csproj.GenerateResource.Cache
+C:\Users\USER\Documents\GitHub\so-thu-sai-gon-Lethimyhoa\SoThuXaiGon\SoThuXaiGon\obj\Debug\SoThuXaiGon.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\GitHub\so-thu-sai-gon-Lethimyhoa\SoThuXaiGon\SoThuXaiGon\obj\Debug\SoThuXaiGon.exe
+C:\Users\USER\Documents\GitHub\so-thu-sai-gon-Lethimyhoa\SoThuXaiGon\SoThuXaiGon\obj\Debug\SoThuXaiGon.pdb
